@@ -1,0 +1,10 @@
+boliye
+
+
+
+to starrt server : npm run dev
+excute on cmd
+go in boliye folder first which in c user drive
+
+
+nxt is execution we have to enter localhost : 3311 on browser then we are able to excute this
